@@ -6,11 +6,9 @@ A full-stack eCommerce site inspired by Amazon.
 👉 (https://prasanna-joga.github.io/amazon-clone/)
 
 ## 🛠 Tech Stack
-- React.js
-- Node.js + Express
-- MongoDB
-- Firebase Auth
-- Stripe (for payments)
+- HTML
+- CSS
+- JAVASCRIPT
 
 ## 🔥 Features
 - User Authentication
