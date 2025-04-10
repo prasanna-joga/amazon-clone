@@ -3,7 +3,7 @@
 A full-stack eCommerce site inspired by Amazon.
 
 ## 🚀 Live Demo
-👉 [amazon-clone.vercel.app](https://your-link)
+👉 (https://prasanna-joga.github.io/amazon-clone/)
 
 ## 🛠 Tech Stack
 - React.js
@@ -19,5 +19,4 @@ A full-stack eCommerce site inspired by Amazon.
 - Order Checkout
 - Responsive UI
 
-## 📸 Screenshots
-![Screenshot1](link)
+
